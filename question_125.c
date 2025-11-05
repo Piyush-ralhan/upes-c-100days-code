@@ -28,7 +28,7 @@ int main() {
 Enter the filename to append to: hello.txt
 Enter the line to append: Branch: CSE
 
-📁 Updated content of hello.txt:
+📁 Output of hello.txt:
 Name: Piyush
 Age: 18
 Branch: CSE
