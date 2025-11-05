@@ -24,7 +24,7 @@ int main() {
 🖥️ Input:
 Enter the filename to open: labs.txt
 
-📁 Content of labs.txt:
+Content of labs.txt:
 Name: Piyush
 Age: 18
 
