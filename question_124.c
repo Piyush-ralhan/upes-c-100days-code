@@ -28,7 +28,7 @@ int main() {
     // Close both the files
     fclose(sourceFile);
     fclose(destFile);
-    printf("✅ File copied successfully from %s to %s\n", sourceName, destName);
+    printf(" File copied successfully from %s to %s\n", sourceName, destName);
     return 0;
 }
 
@@ -46,5 +46,5 @@ Name: Piyush
 Age: 21
 
 🖥️ Output:
-✅ File copied successfully from info.txt to copy.txt
+File copied successfully from info.txt to copy.txt
 */
