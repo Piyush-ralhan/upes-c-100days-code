@@ -7,7 +7,7 @@ int main() {
     // Open input file in read mode
     inputFile = fopen("input.txt", "r");
     if (inputFile == NULL) {
-        printf("❌ Error: Could not open input.txt\n");
+        printf(" Error: Could not open input.txt\n");
         return 1;
     }
     // Open output file in write mode
@@ -29,7 +29,7 @@ int main() {
 }
 
 /*
-Sample content of HELLO.txt:
+Content of HELLO.txt:
 Hello World
 C programming
 
@@ -37,6 +37,6 @@ Result in output.txt:
 HELLO WORLD
 C PROGRAMMING
 
-🖥️Output:
-Conversion complete. Output saved to output.txt
+Output:
+Conversion complete. Output saved to Hello.txt
 */
