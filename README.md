@@ -11,8 +11,13 @@ All the problems I solve are from the following resource(s):
 
 🏆 Goals
 Practice C language consistently for 100 days
+
 Strengthen programming fundamentals
+
 Solve real-world coding problems
+
 Build a daily coding habit
+
 📅 Day-wise Progress
+
 Day100 is completed
